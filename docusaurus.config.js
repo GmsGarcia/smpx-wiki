@@ -49,8 +49,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/GmsGarcia/smpx-wiki/tree/master/",
         },
         blog: {
           showReadingTime: true,
@@ -60,8 +59,7 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/GmsGarcia/smpx-wiki/tree/master/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -86,7 +84,7 @@ const config = {
         title: "SMPx Wiki",
         logo: {
           alt: "SMPx Logo",
-          src: "img/logo.svg",
+          src: "img/logo32.png",
         },
         items: [
           {

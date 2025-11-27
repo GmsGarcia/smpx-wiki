@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Installation
 
-This page will help you get SMPx up and running on your Paper server.
+This page will help you get **SMPx** up and running on your Paper server.
 
 ## Requirements
 

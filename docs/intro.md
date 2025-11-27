@@ -7,11 +7,10 @@ sidebar_position: 1
 This documentation is still in the works. For additional information, join our [Discord](https://discord.com/invite/VSgTpTGZ8A).
 :::
 
-
 SMPx is an all-in-one Paper plugin currently in development. It offers a variety of features, including:
 - Fully customizable economy with multi-currency support
 - Moderation tools
-- [...]
+- Homes and warps (coming soon)
 
 ## Getting Started
 
