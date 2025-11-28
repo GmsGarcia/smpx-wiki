@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksmpx_wiki=globalThis.webpackChunksmpx_wiki||[]).push([[8738],{680:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/smpx-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

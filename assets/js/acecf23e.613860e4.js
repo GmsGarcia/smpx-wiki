@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksmpx_wiki=globalThis.webpackChunksmpx_wiki||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/smpx-wiki/blog","blogTitle":"Blog","authorsListPath":"/smpx-wiki/blog/authors"}')}}]);
