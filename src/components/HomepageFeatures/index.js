@@ -6,10 +6,13 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { library } from "@fortawesome/fontawesome-svg-core";
 
 /* import all the icons in Free Solid, Free Regular, and Brands styles */
-import { fas } from "@fortawesome/free-solid-svg-icons";
-import { far } from "@fortawesome/free-regular-svg-icons";
+import {
+  faCoins,
+  faScrewdriverWrench,
+  faPizzaSlice,
+} from "@fortawesome/free-solid-svg-icons";
 
-library.add(fas, far);
+library.add(faCoins, faScrewdriverWrench, faPizzaSlice);
 
 const FeatureList = [
   {
@@ -48,7 +51,11 @@ function Feature({ icon, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
-        <FontAwesomeIcon icon={icon} className={styles.featureIcon} />
+        <FontAwesomeIcon
+          icon={icon}
+          className={styles.featureIcon}
+          style={{ width: "5rem" }}
+        />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
