@@ -4,14 +4,11 @@ sidebar_position: 2
 
 # Commands
 
-:::warning
-Work in progress...
-:::
+Reference of SMPx commands, including aliases, descriptions, and usages.
 
 ## Moderation
 
 ### /ban
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -21,7 +18,6 @@ Usage:
 ---
 
 ### /ban-ip
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -31,7 +27,6 @@ Usage:
 ---
 
 ### /kick
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -41,7 +36,6 @@ Usage:
 ## Economy
 
 ### /balance
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -51,7 +45,6 @@ Usage:
 ---
 
 ### /addbalance
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -61,7 +54,6 @@ Usage:
 ---
 
 ### /removebalance
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -71,7 +63,6 @@ Usage:
 ---
 
 ### /setbalance
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -81,7 +72,6 @@ Usage:
 ---
 
 ### /pay
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -91,7 +81,6 @@ Usage:
 ## Tools
 
 ### /help
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash
@@ -101,7 +90,6 @@ Usage:
 ---
 
 ### /whois
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada lorem a malesuada faucibus. Duis sit amet mauris placerat, auctor mi feugiat, elementum velit. Vestibulum ornare aliquet maximus. Maecenas mollis posuere diam a rhoncus.
 
 Usage: 
 ```bash

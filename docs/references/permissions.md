@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Permissions
 
+Reference of SMPx permissions used by commands and features.
+
 | Module | Type | Permission | Description |
 | --- | --- | --- | --- |
 | Core | Command | `smpx.admin.ban` | Allow access to **/ban** command. |
